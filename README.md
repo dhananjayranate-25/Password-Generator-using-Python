@@ -43,7 +43,7 @@ The program allows users to:
 5. The program continues until the user chooses to exit.
 
 
-## 💻 Example Output
+# Example Output
 - Enter password length: 10
 - Generated Password: A9#fP!2@kL
 
